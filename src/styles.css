@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+@import '~@ionic/angular/css/ionic.bundle.css';
+.welcome-card {
+  text-align: center;
+}
+.titulo {
+  text-align: center;
+}
+:root {
+  --ion-toolbar-background: #5c3101;
+  --ion-toolbar-color: white;
+
+  --ion-background-color: rgb(255, 255, 255);
+
+  /* barra inferior */
+  --ion-tab-bar-background: #5c3101;
+  --ion-tab-bar-color: black;
+  --ion-tab-bar-color-selected: white;
+}
